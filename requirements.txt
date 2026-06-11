@@ -1,0 +1,10 @@
+torch
+torchvision
+openai-clip
+openai-whisper
+transformers
+Pillow
+opencv-python
+moviepy
+tqdm
+numpy
